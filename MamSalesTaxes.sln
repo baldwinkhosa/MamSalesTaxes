@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MamSalesTaxes", "MamSalesTaxes\MamSalesTaxes.csproj", "{E8C55C56-A48A-49B0-A6C6-69B86CDD2267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptGeneration", "ReceiptGeneration\ReceiptGeneration.csproj", "{D1A25197-52E8-4610-B42A-1D9CF8F00354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C55C56-A48A-49B0-A6C6-69B86CDD2267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C55C56-A48A-49B0-A6C6-69B86CDD2267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C55C56-A48A-49B0-A6C6-69B86CDD2267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C55C56-A48A-49B0-A6C6-69B86CDD2267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A25197-52E8-4610-B42A-1D9CF8F00354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A25197-52E8-4610-B42A-1D9CF8F00354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A25197-52E8-4610-B42A-1D9CF8F00354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A25197-52E8-4610-B42A-1D9CF8F00354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C922B2D-F90F-4423-A7EE-13B61A9DEACA}
+	EndGlobalSection
+EndGlobal
